@@ -1,2 +1,2 @@
 # React
-Laerning React JS
+Laerning React J
